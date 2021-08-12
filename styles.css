@@ -71,6 +71,7 @@ html, body {
   background-color: coral;
   margin: 0;
   background: url("img/qsoft.svg") center/auto 40% no-repeat;
+  cursor: pointer;
 }
 
 .container__find-mobile {
@@ -85,6 +86,7 @@ html, body {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   display: none;
+  cursor: pointer;
 }
 
 .container__find-mobile input {
@@ -126,6 +128,7 @@ html, body {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   border-radius: 5px;
+  cursor: pointer;
 }
 
 @media only screen and (max-width: 767px) {
@@ -198,6 +201,7 @@ html, body {
   font-weight: normal;
   font-size: 14px;
   line-height: 120%;
+  cursor: pointer;
 }
 
 @media only screen and (max-width: 767px) {
@@ -213,6 +217,7 @@ html, body {
   background: url("img/Rectangle 31.jpg") center/auto 100% no-repeat;
   -o-object-fit: cover;
      object-fit: cover;
+  cursor: pointer;
 }
 
 @media only screen and (max-width: 767px) {
@@ -225,6 +230,7 @@ html, body {
   display: none;
   width: 15px;
   height: 25px;
+  cursor: pointer;
 }
 
 .container__user .user-mobile img {
